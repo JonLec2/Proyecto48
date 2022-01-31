@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+  touch-action: none;
+}
+
+.button2{
+  touch-action: none;
+}
+
+.button3{
+  touch-action: none;
+}
